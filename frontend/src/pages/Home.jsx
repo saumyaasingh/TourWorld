@@ -130,7 +130,7 @@ Embark on a journey with Tour World and let the adventure unfold! Traveling not 
             </Row>
         </Container>
      </section>
-      {/**==========================experiebce section end ====================== */}
+      {/**==========================experience section end ====================== */}
       {/**==========================gallery section start ====================== */}
       <section>
         <Container>
